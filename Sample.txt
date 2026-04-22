@@ -1,0 +1,5 @@
+AWS Cloud:
+
+Amazon Web Services:
+
+Cloud:: Cloud is a on demand delivery of resources over the internet with pay as you go pricing.
