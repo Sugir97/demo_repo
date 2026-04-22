@@ -1,1 +1,2 @@
-print "first excercise"
+print "create demo file"
+
