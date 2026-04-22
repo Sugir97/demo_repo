@@ -1,0 +1,61 @@
+AWS Cloud::::
+
+Amazon Web Services::::
+
+Cloud:: Cloud is a on demand delivery of resources over the internet with pay as you go pricing.....
+
+
+
+on demand delivery ----- whenever/wherever you want 
+
+
+resources -----compute, storage, memory network
+
+over the internet- over the public internet
+
+
+pay as you go pricing--- you use and then you pay
+
+
+EB Bill:
+
+300 unit             3000
+Tax                   100
+
+Total               3100
+
+
+
+
+
+Datacenter:::
+
+Ramesh
+
+1) Servers- 2l
+2) Storage- 1l
+3) Network-50k
+4) Cooling system-50k
+5) Engineers-3l
+6) Network Engineers-3l
+7) Security- 1l
+8) Building- 5l
+
+Total- 16 lakhs
+
+Capital Expenditure (CAPEX) - 16 lakhs 
+
+
+Suresh
+Cloud::
+
+2lakhs
+Operational or Variable Expenditure (OPEX) 
+
+Cloud Service Providers:
+
+AWS
+Microsoft Azure
+Google Cloud(GCP)
+Oracle Cloud(OCP)
+IBM Cloud
